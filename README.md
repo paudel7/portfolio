@@ -5,8 +5,8 @@ Only the highlights are shown here. Please click the project name above or the l
 
 1. This is movie data analysis of Hollywood movies. The dataset has been extremely large to upload. The dataset can be obtained from Kaggle.
 2. Please CLICK to view detail analysis-
-"GitHub-hosted STATIC WEBSITE": 
-#### (https://paudel7.github.io/dataAnalysis/)
+ 
+#### ["GitHub-hosted STATIC WEBSITE"](https://paudel7.github.io/dataAnalysis/)
 3. The dataset has at least 22 columns and 44000 row entries
 4. Matplotlib, Numpy, Pandas and Seaborn,HTML libraries have been used for analysis and visualization
 5. Sorting and aggregation techniques have mainly been used for analysis
