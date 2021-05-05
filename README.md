@@ -9,6 +9,8 @@
 4. Matplotlib, Numpy, Pandas and Seaborn,HTML libraries have been used for analysis and visualization
 5. Sorting and aggregation techniques have mainly been used for analysis
 
+### Database information
+![](/images/df.info.jpg)
 
 ### Most active directors as per the nos of productions/making
 ![](/images/mostactivedir.png)
