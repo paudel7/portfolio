@@ -1,6 +1,6 @@
-# Portfolio
+# Kiran's Portfolio
 ## Projects:
-[Project 1:: Movie Data Analysis](https://github.com/paudel7/dataAnalysis)
+## [Project 1:: Movie Data Analysis](https://github.com/paudel7/dataAnalysis)
 
 1. This is movie data analysis of Hollywood movies. The dataset has been extremely large to upload. The dataset can be obtained from Kaggle.
 2. Please CLICK to view some output-
