@@ -10,7 +10,7 @@ Projects:
 
 
 
-![](https://github.com/paudel7/portfolio/blob/main/images/mostactivedir.png)
-![](https://github.com/paudel7/portfolio/blob/main/images/totalrevenuebydir.png)
+![](/images/mostactivedir.png)
+![](/images/totalrevenuebydir.png)
 
 
