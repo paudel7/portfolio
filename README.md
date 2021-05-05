@@ -1,11 +1,12 @@
 # Kiran's Portfolio
 ## Projects:
 ## [Project 1:: Movie Data Analysis](https://github.com/paudel7/dataAnalysis)
-Only the highlights are shown here. Please click the project name above to find the detailed analysis from github.
+Only the highlights are shown here. Please click the project name above or the link on no.2 below to find the detailed analysis.
 
 1. This is movie data analysis of Hollywood movies. The dataset has been extremely large to upload. The dataset can be obtained from Kaggle.
-2. Please CLICK to view some output-
-"GitHub-hosted STATIC WEBSITE": (https://paudel7.github.io/dataAnalysis/)
+2. Please CLICK to view detail analysis-
+"GitHub-hosted STATIC WEBSITE": 
+#### (https://paudel7.github.io/dataAnalysis/)
 3. The dataset has at least 22 columns and 44000 row entries
 4. Matplotlib, Numpy, Pandas and Seaborn,HTML libraries have been used for analysis and visualization
 5. Sorting and aggregation techniques have mainly been used for analysis
